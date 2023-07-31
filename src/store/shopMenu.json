@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Coffee & Espresso",
+    "id": "1",
+    "content": [
+      "Espresso Machines",
+      "Nespresso Machines",
+      "Drip Coffee Machines",
+      "Coffee Grinders",
+      "Accessories & Maintenance"
+    ]
+  },
+  {
+    "title": "Juicers & Blenders",
+    "id": "2",
+    "content": ["Juicers", "Bluicers", "Blenders", "Accessories"]
+  },
+  {
+    "title": "Ovens, Air Fryers & Microwaves",
+    "id": "3",
+    "content": [
+      "Ovens & Air Fryers",
+      "Pizza Ovens",
+      "Microwaves",
+      "Bread Makers",
+      "Accessories"
+    ]
+  },
+  {
+    "title": "Grills, Presses & Toasters",
+    "id": "4",
+    "content": ["Toasters", "Grills & Sandwich Makers", "Waffle Makers"]
+  },
+  {
+    "title": "Cookers",
+    "id": "5",
+    "content": [
+      "Multi Cookers",
+      "Woks, Skillets & Deep Fryers",
+      "Induction & Hot Plates"
+    ]
+  },
+  {
+    "title": "Water & Tea",
+    "id": "6",
+    "content": ["Kettles", "Water Machines", "Accessories"]
+  },
+  {
+    "title": "Food Prep",
+    "id": "7",
+    "content": [
+      "Food Processors",
+      "Stick Mixers",
+      "Mixers",
+      "Equipment",
+      "Accessories"
+    ]
+  },
+  {
+    "title": "Air",
+    "id": "8",
+    "content": [
+      "Air Purifiers",
+      "Air Multi-Function",
+      "Air Dehumidifiers",
+      "Air Humidifiers",
+      "Cooling Fans",
+      "Heaters",
+      "Accessories"
+    ]
+  },
+  {
+    "title": "Specialty Appliances",
+    "id": "9",
+    "content": [
+      "Ice Cream Makers",
+      "Snack Makers",
+      "Breakfast Pack",
+      "Food Disposal",
+      "Water Commercial",
+      "Electric Blankets",
+      "Wine Products",
+      "Accessories"
+    ]
+  },
+  {
+    "title": "Fridge Filters",
+    "id": "10",
+    "content": ["Accessories"]
+  },
+  {
+    "title": "eGift Cards",
+    "id": "11",
+    "content": ["eGift Cards"]
+  }
+]

@@ -1,0 +1,60 @@
+Date : 2023-07-28 19:37:33
+Directory : /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src
+Total : 24 files,  1638 codes, 124 comments, 96 blanks, all 1858 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| TypeScript JSX |         16 |      1,418 |         46 |         73 |      1,537 |
+| JSON           |          3 |        130 |          0 |         12 |        142 |
+| CSS            |          2 |         59 |         77 |          9 |        145 |
+| TypeScript     |          2 |         30 |          1 |          2 |         33 |
+| XML            |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                               |         24 |      1,638 |        124 |         96 |      1,858 |
+| . (Files)                                                                                                                       |          5 |         82 |         78 |         14 |        174 |
+| assets                                                                                                                          |          1 |          1 |          0 |          0 |          1 |
+| components                                                                                                                      |         12 |      1,352 |         16 |         58 |      1,426 |
+| components/header                                                                                                               |         11 |      1,344 |         16 |         53 |      1,413 |
+| components/home                                                                                                                 |          1 |          8 |          0 |          5 |         13 |
+| pages                                                                                                                           |          1 |         10 |          0 |          2 |         12 |
+| store                                                                                                                           |          4 |        160 |          0 |         13 |        173 |
+| utilities                                                                                                                       |          1 |         33 |         30 |          9 |         72 |
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                                        | language       | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/App.css                                    | CSS            |         37 |          0 |          6 |         43 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/App.tsx                                    | TypeScript JSX |         10 |          0 |          3 |         13 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/assets/breville.svg                        | XML            |          1 |          0 |          0 |          1 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/InspirationCard.tsx      | TypeScript JSX |         81 |          0 |          2 |         83 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/Layout.tsx               | TypeScript JSX |         99 |          0 |          5 |        104 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/NaviHeader.tsx           | TypeScript JSX |        268 |         12 |         12 |        292 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/NewFeaturedCard.tsx      | TypeScript JSX |        131 |          0 |          2 |        133 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/ShippingHeader.tsx       | TypeScript JSX |         71 |          1 |          4 |         76 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/ShopCard.tsx             | TypeScript JSX |        112 |          2 |          7 |        121 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallFeatureCard.tsx     | TypeScript JSX |        142 |          1 |          5 |        148 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallInspirationCard.tsx | TypeScript JSX |         91 |          0 |          4 |         95 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallMenuBox.tsx         | TypeScript JSX |        209 |          0 |          5 |        214 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallShopCard.tsx        | TypeScript JSX |        102 |          0 |          5 |        107 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SupportCard.tsx          | TypeScript JSX |         38 |          0 |          2 |         40 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/home/Home.tsx                   | TypeScript JSX |          8 |          0 |          5 |         13 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/index.css                                  | CSS            |         22 |         77 |          3 |        102 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/main.tsx                                   | TypeScript JSX |         13 |          0 |          1 |         14 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/pages/HomePage.tsx                         | TypeScript JSX |         10 |          0 |          2 |         12 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/newFeature1.json                     | JSON           |         17 |          0 |          5 |         22 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/newFeature2.json                     | JSON           |         17 |          0 |          6 |         23 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/shopMenu.json                        | JSON           |         96 |          0 |          1 |         97 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/theme.ts                             | TypeScript     |         30 |          0 |          1 |         31 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/utilities/TestAPP.tsx                      | TypeScript JSX |         33 |         30 |          9 |         72 |
+| /Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/vite-env.d.ts                              | TypeScript     |          0 |          1 |          1 |          2 |
+| Total                                                                                                                           |                |      1,638 |        124 |         96 |      1,858 |
++---------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

@@ -1,0 +1,17 @@
+"filename", "language", "JSON", "TypeScript JSX", "TypeScript", "comment", "blank", "total"
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/Layout.tsx", "TypeScript JSX", 0, 9, 0, 0, 2, 11
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/NaviHeader.tsx", "TypeScript JSX", 0, 12, 0, -12, -1, -1
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SearchCard.tsx", "TypeScript JSX", 0, 389, 0, 3, 8, 400
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/ShippingHeader.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 4
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallMenuBox.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 2
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallShopCard.tsx", "TypeScript JSX", 0, -1, 0, 0, 0, -1
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallSupportCard.tsx", "TypeScript JSX", 0, 206, 0, 0, 11, 217
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallSupportSubtitle.tsx", "TypeScript JSX", 0, 57, 0, 0, 5, 62
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SupportCard.tsx", "TypeScript JSX", 0, 192, 0, 0, 3, 195
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/hooks/closeSearchContext.tsx", "TypeScript JSX", 0, 19, 0, 0, 3, 22
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/hooks/useCloseSearch.ts", "TypeScript", 0, 0, 5, 0, 1, 6
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/pages/HomePage.tsx", "TypeScript JSX", 0, 3, 0, 0, 0, 3
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/listDataInSupport.json", "JSON", 37, 0, 0, 0, 0, 37
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/searchCard.json", "JSON", 38, 0, 0, 0, 3, 41
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/searchCardVideo.json", "JSON", 23, 0, 0, 0, 1, 24
+"Total", "-", 98, 892, 5, -9, 36, 1022

@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "title":"the AquaStation™ Chilled + Hot",
+        "price":599.00,
+        "src":"https://assets.breville.com/cdn-cgi/image/width=800,format=auto/BWA600/LWA600BSS2IAN1/pdp.png"
+    },
+    {
+        "id":2,
+        "title":"the AquaStation™ Chilled",
+        "price":499.00,
+        "src":"https://assets.breville.com/cdn-cgi/image/width=800,format=auto/BWA300/LWA300BSS2IAN1/pdp.png"
+    },
+    {
+        "id":3,
+        "title":"the AquaStation™ Hot",
+        "price":299.00,
+        "src":"https://assets.breville.com/cdn-cgi/image/width=800,format=auto/BWA200/LWA200BSS2IAN1/pdp.jpg"
+    },
+    {
+        "id":4,
+        "title":"the AquaStation™",
+        "price":199.95,
+        "src":"https://assets.breville.com/cdn-cgi/image/width=800,format=auto/BWA100/LWA100BSS2IAN1/pdp.jpg"
+    },
+    {
+        "id":5,
+        "title":"the Toast Control™",
+        "price":149.95,
+        "src":"https://assets.breville.com/cdn-cgi/image/width=800,format=auto/BTA670/LTA670BSS2JAN1.jpg"
+    },
+    {
+        "id":6,
+        "title":"the Toast Control™ Long",
+        "price":139.95,
+        "src":"https://assets.breville.com/cdn-cgi/image/width=800,format=auto/BTA650/LTA650_BSS_ANZ_PDP_1300p.jpg"
+    }
+]
+
+

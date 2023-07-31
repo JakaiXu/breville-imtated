@@ -1,0 +1,26 @@
+"filename", "language", "TypeScript JSX", "TypeScript", "CSS", "XML", "JSON", "comment", "blank", "total"
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/App.css", "CSS", 0, 0, 37, 0, 0, 0, 6, 43
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/App.tsx", "TypeScript JSX", 10, 0, 0, 0, 0, 0, 3, 13
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/assets/breville.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/InspirationCard.tsx", "TypeScript JSX", 81, 0, 0, 0, 0, 0, 2, 83
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/Layout.tsx", "TypeScript JSX", 99, 0, 0, 0, 0, 0, 5, 104
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/NaviHeader.tsx", "TypeScript JSX", 268, 0, 0, 0, 0, 12, 12, 292
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/NewFeaturedCard.tsx", "TypeScript JSX", 131, 0, 0, 0, 0, 0, 2, 133
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/ShippingHeader.tsx", "TypeScript JSX", 71, 0, 0, 0, 0, 1, 4, 76
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/ShopCard.tsx", "TypeScript JSX", 112, 0, 0, 0, 0, 2, 7, 121
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallFeatureCard.tsx", "TypeScript JSX", 142, 0, 0, 0, 0, 1, 5, 148
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallInspirationCard.tsx", "TypeScript JSX", 91, 0, 0, 0, 0, 0, 4, 95
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallMenuBox.tsx", "TypeScript JSX", 209, 0, 0, 0, 0, 0, 5, 214
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SmallShopCard.tsx", "TypeScript JSX", 102, 0, 0, 0, 0, 0, 5, 107
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/header/SupportCard.tsx", "TypeScript JSX", 38, 0, 0, 0, 0, 0, 2, 40
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/components/home/Home.tsx", "TypeScript JSX", 8, 0, 0, 0, 0, 0, 5, 13
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/index.css", "CSS", 0, 0, 22, 0, 0, 77, 3, 102
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/main.tsx", "TypeScript JSX", 13, 0, 0, 0, 0, 0, 1, 14
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/pages/HomePage.tsx", "TypeScript JSX", 10, 0, 0, 0, 0, 0, 2, 12
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/newFeature1.json", "JSON", 0, 0, 0, 0, 17, 0, 5, 22
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/newFeature2.json", "JSON", 0, 0, 0, 0, 17, 0, 6, 23
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/shopMenu.json", "JSON", 0, 0, 0, 0, 96, 0, 1, 97
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/store/theme.ts", "TypeScript", 0, 30, 0, 0, 0, 0, 1, 31
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/utilities/TestAPP.tsx", "TypeScript JSX", 33, 0, 0, 0, 0, 30, 9, 72
+"/Users/Jakai/Documents/Documents/07-WEb-DEV/08-Personal-Pros/04breville/breville/src/vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 1, 1, 2
+"Total", "-", 1418, 30, 59, 1, 130, 124, 96, 1858

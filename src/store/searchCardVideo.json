@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "title":"How to clean and unblock the steam wand",
+        "src":"https://www.breville.com/inspiration/en-au/tutorials/the-oracle/cleaning-guides/how-to-clean-and-unblock-the-steam-wand",
+        "imgUrl":"https://img.youtube.com/vi/UKKRb_rS4IM/maxresdefault.jpg",
+        "time":"01:32"
+    },
+    {
+        "id":2,
+        "title":"How to perform a clear water backflush",
+        "src":"https://www.breville.com/inspiration/en-au/tutorials/the-oracle/cleaning-guides/how-to-perform-a-clear-water-backflush",
+        "imgUrl":"https://img.youtube.com/vi/vOOH9papV44/maxresdefault.jpg",
+        "time":"00:57"
+    },
+    {
+        "id":3,
+        "title":"How to perform a descale",
+        "src":"https://www.breville.com/inspiration/en-au/tutorials/the-oracle/cleaning-guides/how-to-perform-a-descale",
+        "imgUrl":"https://img.youtube.com/vi/TzngpARoPIo/maxresdefault.jpg",
+        "time":"03:48"
+    }
+]

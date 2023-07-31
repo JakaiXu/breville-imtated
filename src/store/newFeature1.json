@@ -1,0 +1,21 @@
+[
+    {
+        "title":"Coffee & Espresso",
+        "id":1,
+        "src":"https://assets.breville.com/cdn-cgi/image/format=auto/Global_Nav/US/thirdwave_speciality_coffee.png"
+    },
+    {
+        "title":"an Aboriginal Culinary Journey™",
+        "id":2,
+        "src":"https://assets.breville.com/cdn-cgi/image/format=auto/Global_Nav/AU/ACJ_Discover_640x480.jpg"
+    },
+    {
+        "title":"Smart Oven",
+        "id":3,
+        "src":"https://www.breville.com/content/dam/breville-brands/microsites/smart-ovens/smart-oven-header/Breville_Smartoven_2.jpg"
+    }
+
+]
+
+
+
